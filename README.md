@@ -5,7 +5,7 @@ Practiced Swift development by creating this app that provides you with the real
 
 Demonstrated: 
 
-- Using Protocols to set requiremtns for certain UI fields.  
+- Using Protocols to set requirements for certain UI fields.  
 - Using Apple's Delegate Design Pattern to implement efficent code. 
 - Using OpenWeather API to pull real time weather data. 
 - Using JSON to parse and write data into Swift. 
